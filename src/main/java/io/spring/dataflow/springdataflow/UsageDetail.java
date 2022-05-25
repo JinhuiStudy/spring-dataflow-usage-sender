@@ -1,4 +1,4 @@
-package io.spring.dataflow.springdataflow.sender.usage;
+package io.spring.dataflow.springdataflow;
 
 public class UsageDetail {
 

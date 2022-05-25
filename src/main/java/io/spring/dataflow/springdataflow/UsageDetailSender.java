@@ -1,4 +1,4 @@
-package io.spring.dataflow.springdataflow.sender.usage;
+package io.spring.dataflow.springdataflow;
 
 import java.util.Random;
 import java.util.function.Supplier;
