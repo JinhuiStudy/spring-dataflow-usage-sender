@@ -1,0 +1,12 @@
+spring:
+  cloud:
+    stream:
+      bindings:
+        output:
+          destination: usage-detail
+      function:
+        bindings:
+          sendEvents-out-0: output
+
+server:
+  port: 0
